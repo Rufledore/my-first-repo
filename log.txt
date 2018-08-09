@@ -1,0 +1,23 @@
+commit 3afd0d169c075a4b7c3781fe875a2a2119c09159
+Author: rufledore <ryfyldor@gmail.com>
+Date:   Thu Aug 9 15:06:23 2018 +0300
+
+    readme is deleted
+
+commit fc1b6b39b3a7e9d5091dc0456bff06fda224cc55
+Author: rufledore <ryfyldor@gmail.com>
+Date:   Thu Aug 9 15:03:12 2018 +0300
+
+    adding .gitignore
+
+commit 92cc217d5262296f8eedc1b78d504bb4e5ede4b9
+Author: rufledore <ryfyldor@gmail.com>
+Date:   Tue Aug 7 16:38:15 2018 +0300
+
+    added two files
+
+commit fe529fdd2e1fdc8d32b6af1ddee27f00703597bc
+Author: rufledore <ryfyldor@gmail.com>
+Date:   Tue Aug 7 16:27:01 2018 +0300
+
+    adding readme.txt
